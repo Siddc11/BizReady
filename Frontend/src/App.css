@@ -1,0 +1,26 @@
+body{
+    background-color: #f3f3f3;
+}
+
+.col-primary{
+    color: #004182;
+}
+
+.link{
+    text-decoration: none;
+    border: .1rem solid #004182;
+    border-radius:1rem;
+    padding:.2rem .6rem;
+    color:#004182;
+    transition: .2s all;
+}
+
+.link:hover{
+    background-color: #004182;
+    color: white;
+}
+
+.nav-link-active{
+    color: #004182 !important;
+    border-bottom: 1px solid #004182 !important;
+}
