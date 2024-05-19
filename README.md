@@ -2,12 +2,22 @@ Here’s a comprehensive README file for your project "BizReady":
 
 ```markdown
 # BizReady
-Join our vibrant community of innovators, creators, and startup enthusiasts. Turn your ideas into reality!
+Join our vibrant community of innovators, creators, and startup enthusiasts.
+Turn your ideas into reality!
 
 ## Description
-Our solution addresses the problem of creating and managing user accounts and profiles in a web application. It allows users to register for an account, providing necessary information such as name, email, and password. Additionally, users can create either personal profiles or startup profiles, each with their own set of attributes.
+Our solution addresses the problem of creating and managing user accounts and
+profiles in a web application. It allows users to register for an account, providing
+necessary information such as name, email, and password. Additionally,
+users can create either personal profiles or startup profiles, each with their
+own set of attributes.
 
-By providing a structured approach to user management and profile creation, our solution simplifies the process for developers and ensures a consistent user experience for end-users. It streamlines the registration process, facilitates the creation of user profiles, and enables easy management of user data within the application. Ultimately, our solution enhances the overall usability and functionality of the web application by providing robust user account and profile management capabilities.
+By providing a structured approach to user management and profile creation, our solution
+simplifies the process for developers and ensures a consistent user experience for end-users.
+It streamlines the registration process, facilitates the creation of user profiles,
+and enables easy management of user data within the application. Ultimately, our solution
+enhances the overall usability and functionality of the web application by providing robust
+user account and profile management capabilities.
 
 ## Technologies Used
 - **HTML**
