@@ -29,7 +29,7 @@ Make sure you have the following installed:
 ### Steps
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/BizReady.git
+   git clone https://github.com/Siddc11/BizReady.git
    cd BizReady
    ```
 
@@ -79,11 +79,21 @@ Make sure you have the following installed:
 ## Contributors
 I would like to thank my team members for their invaluable contributions:
 
-Teammate 1: 
-Teammate 2: 
+- [@MadhukrishnaNipankar](https://github.com/MadhukrishnaNipankar)
+- [@GandharvKulkarni](https://github.com/gandharvak)
 
 ## Screenshots:
+<div>
+    <img src="Login.jpg" alt="Login Screen" width="200" height="400">
+    <img src="HomeScreen.jpg" alt="Home Screen" width="200" height="400">
+    <img src="Profile.jpg" alt="Profile Screen" width="200" height="400">
+</div>
+<div>
+    <img src="ServiceDetailed.jpg" alt="Service Detailed Screen" width="200" height="400">
+    <img src="BookingScreen.jpg" alt="Booking Screen" width="200" height="400">
+    <img src="MyBookingScreen.jpg" alt="My Booking Screen" width="200" height="400">
+</div>
 
 ## Demo Video
-[![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=_CVNjdClxiw&t=1s)
+[![Watch the video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnnjmmYO1hJ4eo-Pc2XHBX8IlU4r8rC3xOgcqXSXMc9Q&s)](https://www.youtube.com/watch?v=_CVNjdClxiw&t=1s)
 
