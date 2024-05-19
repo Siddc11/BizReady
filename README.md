@@ -84,14 +84,19 @@ I would like to thank my team members for their invaluable contributions:
 
 ## Screenshots:
 <div>
-    <img src="Login.jpg" alt="Login Screen" width="200" height="400">
-    <img src="HomeScreen.jpg" alt="Home Screen" width="200" height="400">
-    <img src="Profile.jpg" alt="Profile Screen" width="200" height="400">
+   <h5>Landing Page & Login Page</h5>
+    <img src="Frontend/LandingPage.jpg" alt="Landing Screen" width="400" height="200">
+    <img src="Frontend/LoginPage.jpeg" alt="Login Screen" width="400" height="200">
 </div>
 <div>
-    <img src="ServiceDetailed.jpg" alt="Service Detailed Screen" width="200" height="400">
-    <img src="BookingScreen.jpg" alt="Booking Screen" width="200" height="400">
-    <img src="MyBookingScreen.jpg" alt="My Booking Screen" width="200" height="400">
+    <h5>Feeds/Blogs Page & Profile Page</h5>
+   <img src="Frontend/PostsFeedPage.jpeg" alt="Login Screen" width="400" height="200">
+   <img src="Frontend/ProfilePage.jpeg" alt="Service Detailed Screen" width="400" height="200">
+</div>
+<div>
+    <h5>WriteBlog Page & UpdateProfile Page</h5>
+    <img src="Frontend/WriteBlogPage.jpeg" alt="Booking Screen" width="400" height="200">
+    <img src="Frontend/EditProfilePage.jpeg" alt="My Booking Screen" width="400" height="200">
 </div>
 
 ## Demo Video
